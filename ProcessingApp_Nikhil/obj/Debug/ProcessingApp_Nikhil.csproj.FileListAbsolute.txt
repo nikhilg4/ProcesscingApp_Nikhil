@@ -1,0 +1,7 @@
+D:\Nikhil\ProcessingApp_Nikhil\obj\Debug\ProcessingApp_Nikhil.csprojAssemblyReference.cache
+D:\Nikhil\ProcessingApp_Nikhil\obj\Debug\ProcessingApp_Nikhil.csproj.CoreCompileInputs.cache
+D:\Nikhil\ProcessingApp_Nikhil\bin\Debug\ProcessingApp_Nikhil.exe.config
+D:\Nikhil\ProcessingApp_Nikhil\bin\Debug\ProcessingApp_Nikhil.exe
+D:\Nikhil\ProcessingApp_Nikhil\bin\Debug\ProcessingApp_Nikhil.pdb
+D:\Nikhil\ProcessingApp_Nikhil\obj\Debug\ProcessingApp_Nikhil.exe
+D:\Nikhil\ProcessingApp_Nikhil\obj\Debug\ProcessingApp_Nikhil.pdb
